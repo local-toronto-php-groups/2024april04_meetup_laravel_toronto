@@ -20,5 +20,7 @@ Note-able links:
 - [https://laravel.com/docs/11.x/upgrade#main-content](https://laravel.com/docs/11.x/upgrade#main-content)
 
 - [https://github.com/laravel/laravel/compare/10.x...11.x](https://github.com/laravel/laravel/compare/10.x...11.x)
+ 
+- [https://laravel.com/docs/11.x/context](https://laravel.com/docs/11.x/context)
 
 
